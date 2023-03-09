@@ -1,0 +1,51 @@
+start 20
+turn 1,7
+turn 2,7
+turn 3,7
+turn 5,7
+
+turn 1,19
+turn 2,19
+turn 3,19
+turn 4,19
+
+turn 1,0
+turn 2,0
+turn 3,0
+turn 5,0
+
+
+
+turn 0,0
+turn 0,1
+turn 0,2
+turn 0,3
+
+turn 10,8
+turn 10,9
+turn 10,10
+turn 10,11
+
+turn 19,19
+turn 19,18
+turn 19,16
+turn 19,15
+
+
+
+turn 1,1
+turn 2,2
+turn 3,3
+turn 4,4
+
+turn 10,5
+turn 11,6
+turn 12,7
+turn 14,9
+
+turn 15,15
+turn 16,16
+turn 17,17
+turn 19,19
+display
+end
